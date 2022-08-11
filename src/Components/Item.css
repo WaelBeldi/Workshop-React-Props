@@ -1,0 +1,13 @@
+.clickImg:hover {
+    cursor: pointer;
+}
+
+.listItem {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.container {
+    margin: 2rem;
+}
